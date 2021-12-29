@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Citty</string>
+    <string name="nao_tem_conta">Não tem conta? Cadastre-se</string>
+    <string name="digite_nome">Digite seu nome</string>
+    <string name="digite_senha">Digite sua senha</string>
+    <string name="logar">Logar</string>
+    <string name="digite_email">Digite seu email</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="title_login_activity">Login</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="title_activity_buscar">BuscarActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="seuStatus">Seu status:</string>
+    <string name="status_perfil">Escolha seu status:</string>
+    <string name="disponivel">Disponível </string>
+    <string name="n_disponivel">Não disponível </string>
+    <string name="perfil_title">Dados Iniciais</string>
+    <string name="att_status">seu status</string>
+    <string name="recuperar_s">Recuperar senha</string>
+</resources>

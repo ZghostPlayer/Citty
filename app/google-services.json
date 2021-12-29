@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "616449660814",
+    "project_id": "citty-d60b1",
+    "storage_bucket": "citty-d60b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616449660814:android:ffd7c9522a06bd64e336df",
+        "android_client_info": {
+          "package_name": "com.znovations.citty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616449660814-kcm6s01ihl721886qa62q5jb17sm69cm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.znovations.citty",
+            "certificate_hash": "d877fb6052a4b41defd536850ead81597d365bc8"
+          }
+        },
+        {
+          "client_id": "616449660814-58bi4vjppe2rnhur6lc8ank2lmgj89ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9XqMSCv3B3-SSuFPEtxPo2Y3U62XVpC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616449660814-58bi4vjppe2rnhur6lc8ank2lmgj89ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

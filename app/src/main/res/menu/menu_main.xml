@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menuPerfil"
+        android:title="Configurar perfil"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/menuRequisicoes"
+        android:title="Minhas requisições enviadas"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/menuRequisicoesRecebidas"
+        android:title="Minhas requisições recebidas"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/menuInformacoes"
+        android:title="Informações"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/menuSair"
+        android:title="Sair"
+        app:showAsAction="never" />
+</menu>
